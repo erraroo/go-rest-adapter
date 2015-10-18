@@ -1,0 +1,1 @@
+export { default } from 'go-rest-adapter/serializers/go-rest';
